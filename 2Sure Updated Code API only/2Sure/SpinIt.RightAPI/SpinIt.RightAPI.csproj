@@ -1,0 +1,66 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\Models\CartItem.cs" />
+    <Compile Remove="Data\Models\Favourite.cs" />
+    <Compile Remove="Data\Models\Game.cs" />
+    <Compile Remove="Data\Models\GameCount.cs" />
+    <Compile Remove="Data\Models\GameDay.cs" />
+    <Compile Remove="Data\Models\GameType.cs" />
+    <Compile Remove="Data\Models\Numbers.cs" />
+    <Compile Remove="Data\Models\Order.cs" />
+    <Compile Remove="Data\Models\OrderLine.cs" />
+    <Compile Remove="Data\Models\Picture.cs" />
+    <Compile Remove="Data\Models\Status.cs" />
+    <Compile Remove="Data\Models\ViewModels\GameTypesViewModel.cs" />
+    <Compile Remove="Data\Models\ViewModels\vmGame.cs" />
+    <Compile Remove="Data\Models\ViewModels\vmGameConfig.cs" />
+    <Compile Remove="Data\Models\ViewModels\vmSearch.cs" />
+    <Compile Remove="Data\Services\Infrastructure\ICartItem.cs" />
+    <Compile Remove="Data\Services\Infrastructure\IGame.cs" />
+    <Compile Remove="Data\Services\Infrastructure\IGameCount.cs" />
+    <Compile Remove="Data\Services\Infrastructure\IGameDay.cs" />
+    <Compile Remove="Data\Services\Infrastructure\IGameType.cs" />
+    <Compile Remove="Data\Services\Infrastructure\IOrder.cs" />
+    <Compile Remove="Data\Services\Infrastructure\IOrderLine.cs" />
+    <Compile Remove="Data\Services\Infrastructure\IPicture.cs" />
+    <Compile Remove="Data\Services\Infrastructure\IStatus.cs" />
+    <Compile Remove="Data\Services\Repository\CartItemRepository.cs" />
+    <Compile Remove="Data\Services\Repository\GameCountRepository.cs" />
+    <Compile Remove="Data\Services\Repository\GameDayRepository.cs" />
+    <Compile Remove="Data\Services\Repository\GameRepository.cs" />
+    <Compile Remove="Data\Services\Repository\GameTypeRepository.cs" />
+    <Compile Remove="Data\Services\Repository\OrderDetailRepository.cs" />
+    <Compile Remove="Data\Services\Repository\OrderLineRepository.cs" />
+    <Compile Remove="Data\Services\Repository\OrderResipotory.cs" />
+    <Compile Remove="Data\Services\Repository\PictureRepository.cs" />
+    <Compile Remove="Data\Services\Repository\ProductCategoryRepository.cs" />
+    <Compile Remove="Data\Services\Repository\ProductRepository.cs" />
+    <Compile Remove="Data\Services\Repository\PurchaseOrderRepository.cs" />
+    <Compile Remove="Data\Services\Repository\StatusRepository.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Castle.Windsor" Version="5.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="5.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.10" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.10" />
+
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\Models\ViewModels\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,384 @@
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\appsettings.json
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.StaticWebAssets.xml
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.exe
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.deps.json
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.runtimeconfig.json
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.runtimeconfig.dev.json
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\ref\SpinIt.RightAPI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.pdb
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Castle.Core.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Castle.Windsor.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Humanizer.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.csproj.AssemblyReference.cache
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.AssemblyInfoInputs.cache
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.AssemblyInfo.cs
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.csproj.CoreCompileInputs.cache
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\staticwebassets\SpinIt.RightAPI.StaticWebAssets.Manifest.cache
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\staticwebassets\SpinIt.RightAPI.StaticWebAssets.xml
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\scopedcss\bundle\SpinIt.RightAPI.styles.css
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.RazorTargetAssemblyInfo.cache
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\ref\SpinIt.RightAPI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.pdb
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.genruntimeconfig.cache
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\appsettings.json
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.StaticWebAssets.xml
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.exe
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.deps.json
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.runtimeconfig.json
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.runtimeconfig.dev.json
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\ref\SpinIt.RightAPI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.pdb
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Castle.Core.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Castle.Windsor.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Humanizer.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.csproj.AssemblyReference.cache
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.AssemblyInfoInputs.cache
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.AssemblyInfo.cs
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.csproj.CoreCompileInputs.cache
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\scopedcss\bundle\SpinIt.RightAPI.styles.css
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\staticwebassets\SpinIt.RightAPI.StaticWebAssets.Manifest.cache
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\staticwebassets\SpinIt.RightAPI.StaticWebAssets.xml
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.RazorTargetAssemblyInfo.cache
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\ref\SpinIt.RightAPI.dll
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.pdb
+D:\F Or Client\Asp.Net Core Projects\2Sure\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.genruntimeconfig.cache
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\appsettings.json
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.StaticWebAssets.xml
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.exe
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.deps.json
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.runtimeconfig.json
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.runtimeconfig.dev.json
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\ref\SpinIt.RightAPI.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.pdb
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Castle.Core.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Castle.Windsor.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Humanizer.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.AssemblyInfoInputs.cache
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.AssemblyInfo.cs
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.csproj.CoreCompileInputs.cache
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\scopedcss\bundle\SpinIt.RightAPI.styles.css
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\staticwebassets\SpinIt.RightAPI.StaticWebAssets.Manifest.cache
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\staticwebassets\SpinIt.RightAPI.StaticWebAssets.xml
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.RazorTargetAssemblyInfo.cache
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\ref\SpinIt.RightAPI.dll
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.pdb
+D:\F Or Client\Asp.Net Core Projects\Paungabriel123\2Sure Updated Code API only Omarrezzak\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.StaticWebAssets.xml
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.exe
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.deps.json
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\ref\SpinIt.RightAPI.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SpinIt.RightAPI.pdb
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Castle.Windsor.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\staticwebassets\SpinIt.RightAPI.StaticWebAssets.Manifest.cache
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\staticwebassets\SpinIt.RightAPI.StaticWebAssets.xml
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\scopedcss\bundle\SpinIt.RightAPI.styles.css
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\ref\SpinIt.RightAPI.dll
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.pdb
+C:\Users\Gabriel\Desktop\Licenta\2Sure Updated Code API only\2Sure\SpinIt.RightAPI\obj\Debug\net5.0\SpinIt.RightAPI.genruntimeconfig.cache
